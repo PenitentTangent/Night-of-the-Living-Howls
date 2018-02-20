@@ -1,0 +1,885 @@
+fileFormatVersion: 2
+guid: 3718abce4d5aa48a28f8b458a85ef24f
+timeCreated: 1518316972
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: vampire spritesheet v2 copy_0
+    21300002: vampire spritesheet v2 copy_1
+    21300004: vampire spritesheet v2 copy_2
+    21300006: vampire spritesheet v2 copy_3
+    21300008: vampire spritesheet v2 copy_4
+    21300010: vampire spritesheet v2 copy_5
+    21300012: vampire spritesheet v2 copy_6
+    21300014: vampire spritesheet v2 copy_7
+    21300016: vampire spritesheet v2 copy_8
+    21300018: vampire spritesheet v2 copy_9
+    21300020: vampire spritesheet v2 copy_10
+    21300022: vampire spritesheet v2 copy_11
+    21300024: vampire spritesheet v2 copy_12
+    21300026: vampire spritesheet v2 copy_13
+    21300028: vampire spritesheet v2 copy_14
+    21300030: vampire spritesheet v2 copy_15
+    21300032: vampire spritesheet v2 copy_16
+    21300034: vampire spritesheet v2 copy_17
+    21300036: vampire spritesheet v2 copy_18
+    21300038: vampire spritesheet v2 copy_19
+    21300040: vampire spritesheet v2 copy_20
+    21300042: vampire spritesheet v2 copy_21
+    21300044: vampire spritesheet v2 copy_22
+    21300046: vampire spritesheet v2 copy_23
+    21300048: vampire spritesheet v2 copy_24
+    21300050: vampire spritesheet v2 copy_25
+    21300052: vampire spritesheet v2 copy_26
+    21300054: vampire spritesheet v2 copy_27
+    21300056: vampire spritesheet v2 copy_28
+    21300058: vampire spritesheet v2 copy_29
+    21300060: vampire spritesheet v2 copy_30
+    21300062: vampire spritesheet v2 copy_31
+    21300064: vampire spritesheet v2 copy_32
+    21300066: vampire spritesheet v2 copy_33
+    21300068: vampire spritesheet v2 copy_34
+    21300070: vampire spritesheet v2 copy_35
+    21300072: vampire spritesheet v2 copy_36
+    21300074: vampire spritesheet v2 copy_37
+    21300076: vampire spritesheet v2 copy_38
+    21300078: vampire spritesheet v2 copy_39
+    21300080: vampire spritesheet v2 copy_40
+    21300082: vampire spritesheet v2 copy_41
+    21300084: vampire spritesheet v2 copy_42
+    21300086: vampire spritesheet v2 copy_43
+    21300088: vampire spritesheet v2 copy_44
+    21300090: vampire spritesheet v2 copy_45
+    21300092: vampire spritesheet v2 copy_46
+    21300094: vampire spritesheet v2 copy_47
+    21300096: vampire spritesheet v2 copy_48
+    21300098: vampire spritesheet v2 copy_49
+    21300100: vampire spritesheet v2 copy_50
+    21300102: vampire spritesheet v2 copy_51
+    21300104: vampire spritesheet v2 copy_52
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1768
+        width: 224
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_1
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1768
+        width: 200
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_2
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1768
+        width: 192
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_3
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1768
+        width: 200
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_4
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1768
+        width: 200
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_5
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1768
+        width: 192
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_6
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1768
+        width: 192
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_7
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1768
+        width: 208
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1472
+        width: 208
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_9
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1472
+        width: 192
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_10
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1472
+        width: 192
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_11
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1472
+        width: 200
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_12
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1472
+        width: 200
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_13
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1472
+        width: 192
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_14
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1472
+        width: 200
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_15
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1472
+        width: 224
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1160
+        width: 224
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_17
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1160
+        width: 256
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_18
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1160
+        width: 256
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_19
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1160
+        width: 192
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 864
+        width: 192
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_21
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 864
+        width: 256
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_22
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 864
+        width: 256
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_23
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 864
+        width: 224
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 168
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_25
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 580
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_26
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 580
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_27
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 580
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_28
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 580
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_29
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 580
+        width: 33
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_30
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 580
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_31
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 580
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 248
+        width: 168
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_33
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 422
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_34
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 422
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_35
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 422
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_36
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 422
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_37
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 422
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_38
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 422
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_39
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 422
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_40
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 422
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_41
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 422
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_42
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 422
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_43
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 422
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_44
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 422
+        width: 95
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_45
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 422
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_46
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 263
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_47
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 263
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_48
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 263
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_49
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 263
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_50
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 263
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_51
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 263
+        width: 32
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vampire spritesheet v2 copy_52
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 263
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
